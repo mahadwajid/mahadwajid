@@ -38,16 +38,30 @@ I thrive at the intersection of **AI innovation and software engineering**, comb
 
 ## 🚀 Featured Projects  
 
-🔹 [**Smart Litter AI**](https://github.com/mahadwajid/smart-litter-ai)  
+### 🔹 [Smart Litter AI](https://github.com/mahadwajid/smart-litter-ai)  
 AI-powered waste detection and classification system using deep learning to promote smart waste management and sustainability.  
 
-🔹 [**IntruGAN**](https://github.com/mahadwajid/IntruGAN)  
+![Stars](https://img.shields.io/github/stars/mahadwajid/smart-litter-ai?style=social)  
+![Forks](https://img.shields.io/github/forks/mahadwajid/smart-litter-ai?style=social)  
+![Issues](https://img.shields.io/github/issues/mahadwajid/smart-litter-ai)  
+
+---
+
+### 🔹 [IntruGAN](https://github.com/mahadwajid/IntruGAN)  
 An advanced intrusion detection system for IoT networks, leveraging **Generative Adversarial Networks (GANs)** and deep learning to improve security and anomaly detection.  
 
-🔹 [**Airth**](https://github.com/mahadwajid/Airth)  
+![Stars](https://img.shields.io/github/stars/mahadwajid/IntruGAN?style=social)  
+![Forks](https://img.shields.io/github/forks/mahadwajid/IntruGAN?style=social)  
+![Issues](https://img.shields.io/github/issues/mahadwajid/IntruGAN)  
+
+---
+
+### 🔹 [Airth](https://github.com/mahadwajid/Airth)  
 AI-driven air quality monitoring platform providing real-time insights, analytics, and predictions to support environmental sustainability and public health.  
 
-👉 Explore more in my repositories!  
+![Stars](https://img.shields.io/github/stars/mahadwajid/Airth?style=social)  
+![Forks](https://img.shields.io/github/forks/mahadwajid/Airth?style=social)  
+![Issues](https://img.shields.io/github/issues/mahadwajid/Airth)  
 
 ---
 
