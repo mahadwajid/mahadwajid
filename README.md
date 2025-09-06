@@ -1,23 +1,28 @@
 # 👋 Hi, I'm Mahad Wajid  
 
-🚀 **MERN Stack Developer | AI/ML Enthusiast | Problem Solver**  
+🚀 **AI & Deep Learning Enthusiast | Generative AI | MERN Stack Developer**  
 
-Welcome to my GitHub! I’m passionate about building scalable web applications, AI-powered systems, and real-world solutions that create impact.  
+Welcome to my GitHub! I am a passionate Software Engineer specializing in **Artificial Intelligence, Deep Learning, and Generative AI**.  
+My expertise includes **GANs, LLMs, and ML models**, applied in projects like **Intrusion Detection Systems for IoT Networks** using advanced deep learning architectures.  
+
+Alongside my AI journey, I bring solid experience as a **Full-Stack Developer (MERN)** and **React Native Mobile Developer**, building scalable web platforms and mobile apps with a strong focus on **performance and user experience**.  
+
+I thrive at the intersection of **AI innovation and software engineering**, combining research-driven approaches with practical development skills to create **impactful real-world solutions**.  
 
 ---
 
 ## 💡 About Me  
-- 🎓 Final Year CS Student (Specializing in **AI & Web Development**)  
-- 🧑‍💻 Skilled in **MERN Stack (MongoDB, Express, React, Node.js)**  
-- 🤖 Exploring **AI/ML, GANs for IoT Intrusion Detection, and Predictive Analytics**  
-- ☁️ Interested in **Cloud Computing & Scalable Architectures (AWS, Docker, Boto3)**  
-- 📚 Always learning and sharing knowledge through projects & collaborations  
+- 🎓 Final Year Computer Science Student (AI & Web Development focus)  
+- 🤖 Skilled in **Generative AI | Deep Learning (GANs, LLMs, ML)**  
+- 🧑‍💻 Full-Stack experience with **MERN Stack + React Native**  
+- ☁️ Passionate about **Cloud Computing, AWS, Docker, and Scalable Architectures**  
+- 📚 Lifelong learner committed to contributing to projects that push technology boundaries  
 
 ---
 
 ## 🛠️ Tech Stack  
 **Languages & Frameworks**  
-- JavaScript (ES6+), TypeScript, Python, C#, Java  
+- JavaScript (ES6+), TypeScript, Python, Java, C#  
 - React.js, Node.js, Express.js, Next.js  
 - React Native (Mobile Development)  
 
@@ -32,12 +37,17 @@ Welcome to my GitHub! I’m passionate about building scalable web applications,
 ---
 
 ## 🚀 Featured Projects  
-🔹 [**SocialEcho**](#) – Social media analytics platform with React & Node.js  
-🔹 [**Intrusion Detection with GANs**](#) – AI-powered IoT intrusion detection using Conditional GAN + Bi-LSTM  
-🔹 [**Clouditecture**](#) – AI-generated cloud architectures with AWS deployment  
-🔹 [**Ababeel Job Platform (GCC Nationals)**](#) – AI-powered culturally aligned job platform  
 
-👉 Check my repositories for more!  
+🔹 [**Smart Litter AI**](https://github.com/mahadwajid/smart-litter-ai)  
+AI-powered waste detection and classification system using deep learning to promote smart waste management and sustainability.  
+
+🔹 [**IntruGAN**](https://github.com/mahadwajid/IntruGAN)  
+An advanced intrusion detection system for IoT networks, leveraging **Generative Adversarial Networks (GANs)** and deep learning to improve security and anomaly detection.  
+
+🔹 [**Airth**](https://github.com/mahadwajid/Airth)  
+AI-driven air quality monitoring platform providing real-time insights, analytics, and predictions to support environmental sustainability and public health.  
+
+👉 Explore more in my repositories!  
 
 ---
 
@@ -48,10 +58,10 @@ Welcome to my GitHub! I’m passionate about building scalable web applications,
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://linkedin.com/in/mahadwajid)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahadwajid/)  
+- 🌍 Portfolio: [mahadwajid.vercel.app](https://mahadwajid.vercel.app/)  
 - 📧 Email: **mahad.wajid@example.com**  
-- 🌍 Portfolio: [modelex.ai](https://app.modelex.ai)  
 
 ---
 
-✨ *“Code. Create. Innovate.”* ✨
+✨ *“Building Intelligent Systems & Scalable Solutions with AI + Code.”* ✨
